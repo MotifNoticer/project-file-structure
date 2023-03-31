@@ -1,4 +1,4 @@
-import src.division
+from src.division import perform_operation
 
 def test_division():
     assert perform_operation(10, 5) == 2
