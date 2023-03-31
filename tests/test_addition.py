@@ -1,4 +1,4 @@
-from src.addition import perform_operation
+import src.addition as addition
 
 def test_addition():
     # Assert
